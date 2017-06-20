@@ -1,0 +1,8 @@
+{
+  "name": "open-in-hyper",
+  "version": "1.0.0",
+  "main": "Open in Hyper.workflow",
+  "repository": "git@github.com:escaladesports/open-in-hyper.git",
+  "author": "Kennedy Rose <krose@escaladesports.com>",
+  "license": "MIT"
+}
